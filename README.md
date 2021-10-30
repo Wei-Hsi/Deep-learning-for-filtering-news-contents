@@ -3,8 +3,10 @@ Nowadays, violent, bloody, and porny news contents are increasing in Taiwan, but
 
 ## Environment Setting
  ##### 1. Google Colaboratory
- This project is built on Google Colab. First of all, you need to import your drive from google.colab.
+ This project is built on Google Colab. First of all, you need to import your drive from google.colab and to access the folder.
+ 
         ˋˋˋ
         %cd '/content/drive/My Drive/Colab Notebooks'
         ˋˋˋ
+ 
  ##### 2. Import text data
