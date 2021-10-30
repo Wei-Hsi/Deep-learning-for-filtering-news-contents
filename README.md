@@ -1,4 +1,4 @@
-# News Headlines Filter
+# News Headline Filter
 
 
 ## 01. Introduction
