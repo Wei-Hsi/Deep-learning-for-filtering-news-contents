@@ -8,5 +8,9 @@ Nowadays, violent, bloody, and porny news contents are increasing in Taiwan, but
         ``` py
         %cd '/content/drive/My Drive/Colab Notebooks'
         ```
+        
+         ```js
+    這邊是程式碼
+    ```
  
  ##### 2. Import text data
