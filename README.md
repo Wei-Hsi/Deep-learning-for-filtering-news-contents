@@ -1,4 +1,7 @@
 # News Headlines Filter
+
+
+## Introduction
 Nowadays, violent, bloody, and porny news contents are increasing in Taiwan, but they are not suitable for 12-year-old children reading actually. To protect these young audiences' mental health, this deep learning model can avoid them from reaching these types of news.
 
 ## Environment Setting
@@ -11,3 +14,6 @@ Nowadays, violent, bloody, and porny news contents are increasing in Taiwan, but
  
  ##### 2. Import text data
  Upload the CSV file named "NewsTitle2" to the folder you have built.
+
+
+## Testing and Demo
