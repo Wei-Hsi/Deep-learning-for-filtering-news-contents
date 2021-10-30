@@ -5,7 +5,7 @@ Nowadays, violent, bloody, and porny news contents are increasing in Taiwan, but
  ##### 1. Google Colaboratory
  This project is built on Google Colab. First of all, you need to import your drive from google.colab and to access the folder.
  
-        ˋˋˋ
+        ˋˋˋpython
         %cd '/content/drive/My Drive/Colab Notebooks'
         ˋˋˋ
  
