@@ -15,8 +15,8 @@ Upload the CSV file named `NewsTitle2` to the folder you have built.
 ***
 ## 03. Test and Application
 You can copy and paste any news headlines to test.  
-*Prediction probability means the accuracy of the prediction.  
-*Prediction will show banned or passed.
+* Prediction probability means the accuracy of the prediction.  
+* Prediction will show banned or passed.
 ```python
 predict('<news_headline>')
 ```
